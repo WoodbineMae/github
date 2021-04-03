@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+
+
+<html lang = "en-Us">
+  <head>
+    <meta charset="utf-8">
+    <title>METAl ON HIGH </title>
+
+<style>
+html {
+        font-family: 'Open Sans', sans-serif;
+        background: url(images/pattern.png);
+      }
+      body {
+        width: 100%;
+        max-width: 1200px;
+        margin: 0 auto;
+        background-color: white;
+        position: relative;
+      }
+      /* Header styling */
+      header {
+        height: 150px;
+      }
+      header img {
+        width: 100px;
+        position: absolute;
+        right: 32.5px;
+        top: 32.5px;
+      }
+      h1 {
+        font-size: 50px;
+        line-height: 140px;
+        margin: 0 0 0 32.5px;
+      }
+      /* main section and video styling */
+      main {
+        background: #ccc;
+      }
+      article {
+        padding: 20px;
+      }
+      h2 {
+        margin-top: 0;
+      }
+      p {
+        line-height: 2;
+      }
+      iframe {
+        float: left;
+        margin: 0 20px 20px 0;
+        max-width: 100%;
+      }
+      /* further info links */
+      .further-info {
+        clear: left;
+        padding: 40px 0;
+        background: #c13832;
+        box-shadow: inset 0 3px 2px rgba(0,0,0,0.5),
+                    inset 0 -3px 2px rgba(0,0,0,0.5);
+      }
+      .further-info a {
+        width: 30%;
+        padding: 0 1%;
+        display: block;
+        float: left;
+      }
+      .further-info img {
+        max-width: 100%;
+      }
+      .clearfix {
+        clear: both;
+      }
+      /* Red panda image */
+      .closing-image img {
+        display: block;
+        max-width: 100%;
+      }
+
+      html {
+        font-family: 'Open Sans', sans-serif;
+        background: url(images/pattern.png);
+      }
+      body {
+        width: 100%;
+        max-width: 1200px;
+        margin: 0 auto;
+        background-color: white;
+        position: relative;
+      }
+      /* Header styling */
+      header {
+        height: 150px;
+      }
+      header img {
+        width: 100px;
+        position: absolute;
+        right: 32.5px;
+        top: 32.5px;
+      }
+      h1 {
+        font-size: 50px;
+        line-height: 140px;
+        margin: 0 0 0 32.5px;
+      }
+      /* main section and video styling */
+      main {
+        background: #ccc;
+      }
+      article {
+        padding: 20px;
+      }
+      h2 {
+        margin-top: 0;
+      }
+      p {
+        line-height: 2;
+      }
+      iframe {
+        float: left;
+        margin: 0 20px 20px 0;
+        max-width: 100%;
+      }
+      /* further info links */
+      .further-info {
+        clear: left;
+        padding: 40px 0;
+        background: #c13832;
+        box-shadow: inset 0 3px 2px rgba(0,0,0,0.5),
+                    inset 0 -3px 2px rgba(0,0,0,0.5);
+      }
+      .further-info a {
+        width: 30%;
+        padding: 0 1%;
+        display: block;
+        float: left;
+      }
+      .further-info img {
+        max-width: 100%;
+      }
+      .clearfix {
+        clear: both;
+      }
+      /* Red panda image */
+      .closing-image img {
+        display: block;
+        max-width: 100%;
+      }
+
+      </style>
+  </head>
+
+<header>
+  METAL ON HIGH
+<headerimg src "desktop/download.jpg">
+</headerimg>
+</header>
+
+
+  <body>
+    <strong> METAL ON HIGH MUSIC AND IMAGES COLLECTION </strong>
+
+    <h1>Images,Video, and Audio in HTML</h1>
+    <figure>
+      <main>
+      <iframe width = "560" height="315"
+      src="https://www.youtube.com/watch?v=6fGyf80QU_Y" frameborder="0"
+      allowfullscreen></iframe>
+    </main>
+      <strong> Heavy Metal Collection </strong>
+    </h1>
+    <article>
+    <p> This video is a 5 hour video, to pay tribute to the great heavy
+      metal songs. To see more of the Heavy Metal bands to see the art of thier
+      album covers below. </p>
+    </article>
+
+      <h2>
+<p> Here is some amazing album art of heavy metal bands. Click them to find out
+  more of the inspiration behind the art. </p>
+<figure>
+
+<img src="desktop/metallicamop.jpg">
+<img src="desktop/s-1400.jpg">
+<img src="desktop/opeth.jpg">
+</figure>
+
+</h2>
+
+<closingimage>
+  <img src="destop/images.jpg"
+  alt = "Blue border "
+</closingimage>
+
+
+
+</body>
+
+
+
+
+
+</html>
